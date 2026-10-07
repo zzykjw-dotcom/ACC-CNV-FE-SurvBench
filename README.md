@@ -25,7 +25,7 @@ Biological characterisation (GO/KEGG, PPI, immune, hub expression) is in a separ
 ```
 ACC-CNV-FE-SurvBench/
 ├── README.md
-├── data/                          # processed lists only (safe to commit)
+├── data/  "Note: the ME4 module contains 454 genes in total; 410 of these have available gene-level CNV data and were used for CNV-expression correlation analysis."                        # processed lists only (safe to commit)
 │   ├── ME4_module_genes.txt
 │   ├── ME4_CNV_driven_core_genes.txt
 │   ├── five_gene_signature.txt
