@@ -1,8 +1,0 @@
-# 454 ME4 module genes (one gene symbol per line)
-# Replace this file with your actual module_genes.txt content
-# Example:
-# TOP2A
-# CCNA2
-# CDK1
-# CDC20
-# ...
