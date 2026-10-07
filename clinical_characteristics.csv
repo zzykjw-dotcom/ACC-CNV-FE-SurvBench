@@ -1,0 +1,7 @@
+Characteristic,Value
+Age_years_median_range,"49 (14-77)"
+Sex_Male_Female,"31 (39.2%) / 48 (60.8%)"
+AJCC_I_II_III_IV,"9 (11.4%) / 37 (46.8%) / 16 (20.3%) / 15 (19.0%)"
+Vital_Alive_Dead,"51 (64.6%) / 28 (35.4%)"
+OS_months_median_range,"39.2 (4.1-153.5)"
+Complete_cases_events,"77 (27)"

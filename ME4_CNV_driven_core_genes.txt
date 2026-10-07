@@ -1,0 +1,9 @@
+# 56 CNV-driven core genes (|rho|>0.3, p<0.05)
+# Replace with your actual list
+# Example:
+# MMP12
+# ASPM
+# OTX1
+# NCAPH
+# HELLS
+# ...
