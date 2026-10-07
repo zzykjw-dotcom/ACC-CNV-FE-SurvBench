@@ -41,9 +41,7 @@ ACC-CNV-FE-SurvBench/
 │   └── 06_biological_GO_KEGG_PPI_immune.R   # biological validation
 ├── Python/
 │   └── Cox_AAE.py
-└── results/
-    ├── figures/
-    └── tables/
+Image and table outputs are not stored in this repository; they are provided as supplementary files in the manuscript submission.
 ```
 
 **Raw TCGA / GEO matrices are not stored in this repository.**  
